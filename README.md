@@ -25,8 +25,5 @@ It allows real-time communication between a server and multiple clients.
 - File transfer support  
 - Chat history saving  
 
-## How to Run
-1. Compile the Java files:
-   ```bash
-   javac Server.java Client.java
+
 
